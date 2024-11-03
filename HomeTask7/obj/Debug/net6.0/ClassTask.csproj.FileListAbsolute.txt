@@ -1,0 +1,14 @@
+C:\Users\Huawei\source\repos\ClassTask\bin\Debug\net6.0\ClassTask.exe
+C:\Users\Huawei\source\repos\ClassTask\bin\Debug\net6.0\ClassTask.deps.json
+C:\Users\Huawei\source\repos\ClassTask\bin\Debug\net6.0\ClassTask.runtimeconfig.json
+C:\Users\Huawei\source\repos\ClassTask\bin\Debug\net6.0\ClassTask.dll
+C:\Users\Huawei\source\repos\ClassTask\bin\Debug\net6.0\ClassTask.pdb
+C:\Users\Huawei\source\repos\ClassTask\obj\Debug\net6.0\ClassTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huawei\source\repos\ClassTask\obj\Debug\net6.0\ClassTask.AssemblyInfoInputs.cache
+C:\Users\Huawei\source\repos\ClassTask\obj\Debug\net6.0\ClassTask.AssemblyInfo.cs
+C:\Users\Huawei\source\repos\ClassTask\obj\Debug\net6.0\ClassTask.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\source\repos\ClassTask\obj\Debug\net6.0\ClassTask.dll
+C:\Users\Huawei\source\repos\ClassTask\obj\Debug\net6.0\refint\ClassTask.dll
+C:\Users\Huawei\source\repos\ClassTask\obj\Debug\net6.0\ClassTask.pdb
+C:\Users\Huawei\source\repos\ClassTask\obj\Debug\net6.0\ClassTask.genruntimeconfig.cache
+C:\Users\Huawei\source\repos\ClassTask\obj\Debug\net6.0\ref\ClassTask.dll
