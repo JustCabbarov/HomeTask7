@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Huawei\\Desktop\\HomeTask7\\HomeTask8\\HomeTask9.csproj": {}
+    "C:\\Users\\Huawei\\source\\repos\\HomeTask10\\HomeTask10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Huawei\\Desktop\\HomeTask7\\HomeTask8\\HomeTask9.csproj": {
+    "C:\\Users\\Huawei\\source\\repos\\HomeTask10\\HomeTask10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Huawei\\Desktop\\HomeTask7\\HomeTask8\\HomeTask9.csproj",
-        "projectName": "HomeTask9",
-        "projectPath": "C:\\Users\\Huawei\\Desktop\\HomeTask7\\HomeTask8\\HomeTask9.csproj",
+        "projectUniqueName": "C:\\Users\\Huawei\\source\\repos\\HomeTask10\\HomeTask10.csproj",
+        "projectName": "HomeTask10",
+        "projectPath": "C:\\Users\\Huawei\\source\\repos\\HomeTask10\\HomeTask10.csproj",
         "packagesPath": "C:\\Users\\Huawei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Huawei\\Desktop\\HomeTask7\\HomeTask8\\obj\\",
+        "outputPath": "C:\\Users\\Huawei\\source\\repos\\HomeTask10\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

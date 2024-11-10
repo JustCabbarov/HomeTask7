@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Huawei\\Desktop\\HomeTask9\\",
+  "WorkspaceRootPath": "C:\\Users\\Huawei\\Desktop\\HomeTask7\\HomeTask8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{572F91E5-6EB3-4518-8F11-9CF4060158F4}|HomeTask9.csproj|c:\\users\\huawei\\desktop\\hometask9\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{572F91E5-6EB3-4518-8F11-9CF4060158F4}|HomeTask9.csproj|c:\\users\\huawei\\desktop\\hometask7\\hometask8\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{572F91E5-6EB3-4518-8F11-9CF4060158F4}|HomeTask9.csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572F91E5-6EB3-4518-8F11-9CF4060158F4}|HomeTask9.csproj|c:\\users\\huawei\\desktop\\hometask9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{572F91E5-6EB3-4518-8F11-9CF4060158F4}|HomeTask9.csproj|c:\\users\\huawei\\desktop\\hometask7\\hometask8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{572F91E5-6EB3-4518-8F11-9CF4060158F4}|HomeTask9.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572F91E5-6EB3-4518-8F11-9CF4060158F4}|HomeTask9.csproj|c:\\users\\huawei\\desktop\\hometask9\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{572F91E5-6EB3-4518-8F11-9CF4060158F4}|HomeTask9.csproj|c:\\users\\huawei\\desktop\\hometask7\\hometask8\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{572F91E5-6EB3-4518-8F11-9CF4060158F4}|HomeTask9.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{572F91E5-6EB3-4518-8F11-9CF4060158F4}|HomeTask9.csproj|c:\\users\\huawei\\desktop\\hometask9\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{572F91E5-6EB3-4518-8F11-9CF4060158F4}|HomeTask9.csproj|c:\\users\\huawei\\desktop\\hometask7\\hometask8\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{572F91E5-6EB3-4518-8F11-9CF4060158F4}|HomeTask9.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Library.cs",
-              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\HomeTask9\\Library.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\HomeTask7\\HomeTask8\\Library.cs",
               "RelativeDocumentMoniker": "Library.cs",
-              "ToolTip": "C:\\Users\\Huawei\\Desktop\\HomeTask9\\Library.cs",
-              "RelativeToolTip": "Library.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAgwBcAAAANAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\HomeTask7\\HomeTask8\\Library.cs*",
+              "RelativeToolTip": "Library.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-09T12:11:46.176Z",
               "IsPinned": true,
@@ -48,39 +48,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\HomeTask9\\Product.cs",
-              "RelativeDocumentMoniker": "Product.cs",
-              "ToolTip": "C:\\Users\\Huawei\\Desktop\\HomeTask9\\Product.cs",
-              "RelativeToolTip": "Product.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwDsAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T11:53:11.164Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\HomeTask9\\Book.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\HomeTask7\\HomeTask8\\Book.cs",
               "RelativeDocumentMoniker": "Book.cs",
-              "ToolTip": "C:\\Users\\Huawei\\Desktop\\HomeTask9\\Book.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\HomeTask7\\HomeTask8\\Book.cs",
               "RelativeToolTip": "Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T12:07:11.949Z"
+              "WhenOpened": "2024-11-09T12:07:11.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\HomeTask7\\HomeTask8\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\HomeTask7\\HomeTask8\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T11:53:11.164Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\HomeTask9\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\HomeTask7\\HomeTask8\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Huawei\\Desktop\\HomeTask9\\Program.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\HomeTask7\\HomeTask8\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAzwA4AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwA4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T23:43:59.514Z"
+              "WhenOpened": "2024-11-08T23:43:59.514Z",
+              "EditorCaption": ""
             }
           ]
         }
